@@ -1,4 +1,4 @@
-# 256 Color Codes Cheat-Sheet
+# 256 Color Codes Cheat-Sheet 
 
 Colors 0-15 are Xterm system colors.
 
