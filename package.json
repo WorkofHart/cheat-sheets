@@ -1,0 +1,14 @@
+{
+  "name": "cheat-sheets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Christian Lempa's personal knowledge-base — code snippets, technical docs, command references",
+  "scripts": {
+    "lint:md": "markdownlint '**/*.md' --ignore node_modules",
+    "spell": "cspell '**/*.md'"
+  },
+  "devDependencies": {
+    "cspell": "^8.0.0",
+    "markdownlint-cli": "^0.40.0"
+  }
+}
